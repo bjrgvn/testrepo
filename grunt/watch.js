@@ -11,6 +11,7 @@ module.exports = {
         ],
         tasks: [
             'jshint',
+            'copy',
             'uglify'
         ]
     },
@@ -23,4 +24,13 @@ module.exports = {
             'sass:dev'
         ]
     },
+
+    jade: {
+        files: [
+            'src/jade/*.jade'
+        ],
+        tasks: [
+            'jade'
+        ]
+    }
 };

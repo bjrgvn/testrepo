@@ -22,3 +22,7 @@ prod:
     - 'concurrent:prodFirst'
     - 'concurrent:prodSecond'
     - img
+serve:
+  - dev
+  - 'connect:server'
+  - watch

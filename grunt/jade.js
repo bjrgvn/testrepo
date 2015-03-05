@@ -1,5 +1,5 @@
-module.exports =  {
-	prod: {
+module.exports = {
+	all: {
 		options: {
 			client: false,
 			pretty: true
