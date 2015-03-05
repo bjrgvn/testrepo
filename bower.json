@@ -1,0 +1,19 @@
+{
+  "name": "grunt-basic",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nandorocker/grunt-basic",
+  "authors": [
+    "Nando Rossi <talk@nan.do>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}

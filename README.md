@@ -15,8 +15,21 @@ This is mainly for learning purposes and to speed up my own process. Use at your
 	src/scripts/
 	src/styles/
 
-### Install grunt-cli:
+### Install grunt-cli globally:
 `npm install -g grunt-cli`
 
-### Install some dependencies:
-`npm install time-grunt jshint-stylish --save && npm install grunt load-grunt-config grunt-concurrent grunt-contrib-clean grunt-contrib-imagemin grunt-sass grunt-contrib-uglify grunt-contrib-jshint grunt-contrib-watch --save-dev`
+### NPM Dependencies
+
+- time-grunt
+- jshint-stylish
+- grunt
+- load-grunt-config 
+- grunt-concurrent 
+- grunt-contrib-clean 
+- grunt-contrib-imagemin 
+- grunt-sass 
+- grunt-contrib-uglify 
+- grunt-contrib-jshint 
+- grunt-contrib-watch
+
+### Bower Dependencies
