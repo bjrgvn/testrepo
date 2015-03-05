@@ -1,0 +1,9 @@
+/*
+ * Based on template by Matt Bailey
+ * http://mattbailey.io/a-beginners-guide-to-grunt-redux/
+ */
+{
+	"name": "project-template",
+	"version": "0.0.1",
+	"description": "Project Template"
+}
