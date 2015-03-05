@@ -1,4 +1,4 @@
-# Simple Grunt Setup for HTML
+# Simple Grunt Setup for SCSS
 
 Based on Matt Bailey's "[A beginners guide to grunt (redux)](http://mattbailey.io/a-beginners-guide-to-grunt-redux/)". He explains what each of these tasks do in detail in his awesome article.
 
