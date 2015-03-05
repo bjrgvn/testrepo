@@ -11,8 +11,10 @@ module.exports = {
         'jshint'
     ],
     devSecond: [
+        'jade',
         'sass:dev',
-        'uglify'
+        'uglify',
+        'copy:dev'
     ],
 
     // Production tasks
@@ -21,8 +23,10 @@ module.exports = {
         'jshint'
     ],
     prodSecond: [
+        'jade',
         'sass:prod',
-        'uglify'
+        'uglify',
+        'copy:prod'
     ],
 
     // Image tasks
