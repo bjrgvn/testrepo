@@ -39,6 +39,7 @@ This is mainly for learning purposes and to speed up my own process. Use at your
 - grunt-contrib-uglify 
 - grunt-contrib-jshint 
 - grunt-contrib-watch
+- grunt-ngrok
 
 ### Bower Dependencies
 - Bootstrap
