@@ -45,3 +45,4 @@ This is mainly for learning purposes and to speed up my own process. Use at your
 
 ## To-do's
 - Copy assets into `dist`
+- Add scaffolding (folders)

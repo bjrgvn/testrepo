@@ -23,6 +23,15 @@ prod:
     - 'concurrent:prodSecond'
     - img
 serve:
+  description: 'Serves site at port 4000'
+  tasks:
   - devimg
-  - 'connect:server'
+  - connect
+  - watch
+expose:
+  description: 'Serve and expose port externally'
+  tasks:
+  - devimg
+  - connect
+  - ngrok
   - watch
