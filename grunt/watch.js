@@ -5,6 +5,15 @@ module.exports = {
         livereload: true
     },
 
+    images: {
+        files: [
+            'src/**/*.{png,jpg,gif}'
+        ],
+        tasks: [
+            'img'
+        ]
+    },
+
     scripts: {
         files: [
             'src/scripts/*.js'

@@ -16,8 +16,14 @@ This is mainly for learning purposes and to speed up my own process. Use at your
 	src/styles/
 	src/content/
 
-### Install grunt-cli globally:
-`npm install -g grunt-cli`
+### Install grunt-cli & bower globally:
+`npm install -g grunt-cli bower`
+
+### Run NPM Install
+`npm install`
+
+### Run Bower Install
+`bower install`
 
 ### NPM Dependencies
 
@@ -35,3 +41,7 @@ This is mainly for learning purposes and to speed up my own process. Use at your
 - grunt-contrib-watch
 
 ### Bower Dependencies
+- Bootstrap
+
+## To-do's
+- Copy assets into `dist`
