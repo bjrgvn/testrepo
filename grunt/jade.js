@@ -5,7 +5,7 @@ module.exports = {
 			pretty: true
 		},
 		files: [{
-			cwd: 'src/jade',
+			cwd: 'src/content',
 			src: '**/*.jade',
 			dest: 'dist/',
 			expand: true,

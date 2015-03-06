@@ -27,7 +27,7 @@ module.exports = {
 
     jade: {
         files: [
-            'src/jade/*.jade'
+            'src/content/*.jade'
         ],
         tasks: [
             'jade'

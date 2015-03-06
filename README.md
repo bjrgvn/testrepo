@@ -8,18 +8,20 @@ This is mainly for learning purposes and to speed up my own process. Use at your
 
 ## Getting started
 
-### Create project directories
+### Project directories
 	grunt/
 	src/
 	src/images/
 	src/scripts/
 	src/styles/
+	src/content/
 
 ### Install grunt-cli globally:
 `npm install -g grunt-cli`
 
 ### NPM Dependencies
 
+#### Dependencies installed
 - time-grunt
 - jshint-stylish
 - grunt
